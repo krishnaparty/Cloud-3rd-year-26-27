@@ -3,3 +3,5 @@ Roll Number: YOUR_ROLL_NUMBER
 Subject Name: Application Build and Release Automation Lab
 Project Name: GLA Health System
 Semester: 5th Semester
+Project Objective: To develop a Campus Health Appointment System.
+Program/Course: B.Tech Computer Science and Engineering
