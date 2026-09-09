@@ -1,10 +1,7 @@
 Student Name: Krishna Gupta
-Roll Number: YOUR_ROLL_NUMBER
+Roll Number: 22515990004
 Subject Name: Application Build and Release Automation Lab
 Project Name: GLA Health System
 Semester: 5th Semester
-<<<<<<< HEAD
-Project Objective: To simplify health appointment booking for campus users.
-=======
 Project Objective: To provide a simple online health appointment management system for campus users.
 Program/Course: B.Tech Computer Science and Engineering
